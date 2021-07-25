@@ -5,9 +5,8 @@
 
 [![Linkedin: aslıhankalyonkat](https://img.shields.io/badge/-aslıhankalyonkat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aslıhankalyonkat/)](https://www.linkedin.com/in/aslıhankalyonkat/)
 [![GitHub Aslıhan](https://img.shields.io/github/followers/aslihankalyonkat?label=follow&style=social)](https://github.com/aslihankalyonkat)
-
+![Visitor Count](https://profile-counter.glitch.me/aslihankalyonkat/count.svg)
 </div>
-
 
 - <h4>A motivated data scientist who passionate about building models that fix problems.<br>
 - <h4>👀 I’m interested in Data Science, Machine Learning, Deep Learning<br>
